@@ -5,7 +5,7 @@ A collection of bash scripts that can be used to format source code as a pre-com
 #License
 The MIT License (MIT)
 
-Copyright (c) 2016 Rasmus Tilljander
+Copyright (c) 2017 Rasmus Tilljander
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
